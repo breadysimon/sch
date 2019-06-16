@@ -1,5 +1,11 @@
 [
   {
+  "WeekDay":0,
+  "StartTime":1400,
+  "EndTime":1900,
+  "Message":"上午：英语、编程；下午：唐诗、弹琴、运动"
+  }，
+  {
   "WeekDay":1,
   "StartTime":1600,
   "EndTime":1700,
@@ -34,11 +40,5 @@
   "StartTime":1100,
   "EndTime":1900,
   "Message":"上午：运动、弹琴、英语；下午：故事、巧虎、唐诗、运动"
-  },
-  {
-  "WeekDay":0,
-  "StartTime":1400,
-  "EndTime":1900,
-  "Message":"上午：英语、编程；下午：唐诗、弹琴、运动"
   }
 ]
