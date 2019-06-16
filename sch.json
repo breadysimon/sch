@@ -1,7 +1,7 @@
 [
   {
   "WeekDay":0,
-  "StartTime":1400,
+  "StartTime":1100,
   "EndTime":1900,
   "Message":"上午：英语、编程；下午：唐诗、弹琴、运动"
   },
@@ -25,7 +25,7 @@
   },
   {
   "WeekDay":4,
-  "StartTime":600,
+  "StartTime":1600,
   "EndTime":2000,
   "Message":"今天的任务是：唐诗、巧虎、英语、运动"
   },
