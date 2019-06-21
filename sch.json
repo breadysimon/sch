@@ -32,13 +32,13 @@
   {
   "WeekDay":5,
   "StartTime":1600,
-  "EndTime":1930,
+  "EndTime":1830,
   "Message":"学编程前要完成的任务是：看Peppa Pig、巧虎、学英语"
   },
   {
   "WeekDay":6,
   "StartTime":1100,
-  "EndTime":1900,
+  "EndTime":1830,
   "Message":"上午：运动、弹琴、英语；下午：故事、巧虎、唐诗、运动"
   }
 ]
