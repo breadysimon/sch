@@ -1,44 +1,44 @@
-[
-  {
+{
+  "w0":{
   "WeekDay":0,
   "StartTime":1600,
   "EndTime":1800,
   "Message":"上午：英语、编程；下午：唐诗、弹琴、运动"
   },
-  {
+  "w1":{
   "WeekDay":1,
   "StartTime":1600,
   "EndTime":1700,
   "Message":"学编程前要完成的任务是：唐诗"
   },
-  {
+  "w2":{
   "WeekDay":2,
   "StartTime":1600,
   "EndTime":2000,
   "Message":"今天的任务是：看Peppa Pig、巧虎、唐诗"
   },
-  {
+  "w3":{
   "WeekDay":3,
   "StartTime":1600,
   "EndTime":1700,
   "Message":"学编程前要完成的任务是：唐诗"
   },
-  {
+  "w4":{
   "WeekDay":4,
   "StartTime":1600,
   "EndTime":2000,
   "Message":"今天的任务是：唐诗、巧虎、英语、运动"
   },
-  {
+  "w5":{
   "WeekDay":5,
   "StartTime":1600,
   "EndTime":1830,
   "Message":"学编程前要完成的任务是：看Peppa Pig、巧虎、学英语"
   },
-  {
+  "w6":{
   "WeekDay":6,
   "StartTime":1100,
   "EndTime":1700,
   "Message":"上午：运动、弹琴、英语；下午：故事、巧虎、唐诗、运动"
   }
-]
+}
